@@ -1,2 +1,4 @@
 # Save-my-Job
-This is repository in which we 4 (Kshitiz,Mayank,priyanshu,Ujjwal) are making a web app that help people save their job by upskilling them with current market requirement.
+This repository contains project built by the members of Team LateBloomers(Mayank,Kshitiz,Priyanshu,Ujjwal).
+
+The project helps predict job loss risks and recommends upskilling paths to remove the risk factor and improve job security.
