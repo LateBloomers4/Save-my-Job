@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Save My Job</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h2>Save My Job</h2>
+    <p>Discover what skills are at risk — and how to future-proof your career.</p>
+  </header>
+
+  <main>
+    <h1>Enter Your Job Title</h1>
+    <label for="job">Job Title</label>
+    <input type="text" id="job" placeholder="e.g. Data Entry Clerk, Graphic Designer" />
+    <button onclick="analyzeJob()">Analyze</button>
+
+    <div id="result" style="display: none;"></div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
